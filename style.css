@@ -29,8 +29,13 @@ p, ul, li {
     width: 15px;
     gap: 2px;
 
-
 }
+
+/* #imagem img {
+    max-width: 100%;
+    height: auto; /* Garante que a altura se ajuste automaticamente */
+}
+ */
 
 /* style.css */
 
