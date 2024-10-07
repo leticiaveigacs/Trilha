@@ -1,0 +1,57 @@
+
+
+h1, h2, h3{
+ 
+    font-family: "Kaushan Script", cursive;
+
+}
+
+body {
+ 
+    font-family: "Work Sans", Arial, Verdana, sans-serif;
+}
+
+p, ul, li {
+
+    font-family: "Work Sans";
+}  
+
+
+
+#informacao{
+    font-size: 1rem;
+
+}
+
+#icone a i {
+    color: #e53939; 
+    font-size: 50px;
+    width: 15px;
+    gap: 2px;
+
+
+}
+
+/* style.css */
+
+/* cores referencias */
+/* Cores personalizadas */
+.text-danger-custom {
+    color: #e53939; /* Vermelho */
+}
+
+.bg-dark-custom {
+    background-color: #000000; /* Preto */
+}
+
+.bg-red-custom {
+    background-color: #e53939; /* Vermelho */
+}
+
+.text-white-custom {
+    color: #ffffff; /* Branco */
+}
+
+.text-justify {
+    text-align: justify;
+}
